@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nuwan Bhathiya, an undergraduate student pursuing a Bachelor of Science (Hons) in Information Technology.</h1>
-<h3 align="center">🎓 IT Undergraduate | Exploring AI, Cloud & App Developmentt</h3>
+<h3 align="center">🎓 IT Undergraduate | Exploring AI, Cloud & App Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaathii&label=Profile%20views&color=0e75b6&style=flat" alt="bhaathii" /> </p>
 
