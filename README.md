@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaathii&label=Profile%20views&color=0e75b6&style=flat" alt="bhaathii" /> </p>
 
-- 🔭 I’m currently working on **web development technologies like JavaCript**
+- 🔭 I’m currently working on **web development technologies like Javascript**
 
 - 🌱 I’m currently learning **everything abount all technologies**
 
