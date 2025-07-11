@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nuwan Bhathiya, an undergraduate student pursuing a Bachelor of Science (Hons) in Information Technology.</h1>
-<h3 align="center">A passionate frontend and backend developer from Sri lanka</h3>
+<h3 align="center">🎓 IT Undergraduate | Exploring AI, Cloud & App Developmentt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaathii&label=Profile%20views&color=0e75b6&style=flat" alt="bhaathii" /> </p>
 
-- 🔭 I’m currently working on **web development technologies like Javascript**
+- 🔭 Currently, I’m leading a research project on **a Context-Aware Carbon Footprint Calculator for Sustainable Tourism in Sri Lanka, combining AI, data analytics, and environmental awareness.**
 
 - 🌱 I’m currently learning **everything abount all technologies**
 
-- 💬 Ask me about **java,figma**
+- 💬 Ask me about **HTML,CSS,java,python , streamlit, Android studio, Devops CICD Pipeline, figma, firebase, wireshark, linuxOS**
 
 - 📫 How to reach me **nwnbhathiya@gmail.com**
 
@@ -28,9 +28,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nuwan bhathiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuwan bhathiya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nuwan-bhathiya-16868b26a/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuwan bhathiya" height="30" width="40" /></a>
 <a href="https://fb.com/nuwan bhathiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nuwan bhathiya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@nuwanbhathiya8892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nuwanbhathiya8892" height="30" width="40" /></a>
+<a href="https://youtube.com/@nuwanbhathiya8892?si=0Tr9ZJuKZRlujT8P" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nuwanbhathiya8892" height="30" width="40" /></a>
 </p>
 <hr>
 
