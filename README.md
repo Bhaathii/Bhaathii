@@ -73,14 +73,14 @@
 ## 🌱 Recent Projects
 
 ### ♻️ Context-Aware Carbon Footprint Calculator
-- **AI-driven solution** for sustainable tourism in Sri Lanka
-- Combines **machine learning** with **geospatial analysis**
-- Tech stack: Python, Streamlit, Scikit-learn, GeoPandas
+- Developed a system to calculate real-time carbon emissions
+ based on transport modes (car, bus, train, flight), distance
+ traveled, and fuel types.
+-  Integrated GPS and Maps API to dynamically track travel data and
+ provide accurate emission calculations.
+- Develop a real-time vehicle emission calculation module for a
+ web application using localized Sri Lankan transport data.
 
-### 📱 EcoTravel Companion (Mobile App)
-- **Android application** for eco-conscious travelers
-- Features carbon tracking and sustainable route planning
-- Tech stack: Kotlin, Android Studio, Firebase
 
 ---
 
