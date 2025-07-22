@@ -12,7 +12,7 @@
   <a href="https://youtube.com/@nuwanbhathiya8892?si=0Tr9ZJuKZRlujT8P">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
-  <a href="https://ko-fi.com/bhaathii">
+  <a href="https://ko-fi.com/nuwanbhathiya">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
   </a>
 </div>
