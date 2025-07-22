@@ -1,44 +1,108 @@
-<h1 align="center">Hi 👋, I'm Nuwan Bhathiya, an undergraduate student pursuing a Bachelor of Science (Hons) in Information Technology.</h1>
-<h3 align="center">🎓 IT Undergraduate | Exploring AI, Cloud & App Development</h3>
+<h1 align="center">👋 Hi, I'm Nuwan Bhathiya</h1>
+<h3 align="center">🎓 IT Undergraduate | AI & Cloud Specialist | Full-Stack Developer</h3>
+<p align="center">Passionate about leveraging technology for sustainable solutions</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaathii&label=Profile%20views&color=0e75b6&style=flat" alt="bhaathii" /> </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/nuwan-bhathiya-16868b26a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:nwnbhathiya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://youtube.com/@nuwanbhathiya8892?si=0Tr9ZJuKZRlujT8P">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://ko-fi.com/bhaathii">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
+  </a>
+</div>
 
-- 🔭 Currently, I’m leading a research project on **a Context-Aware Carbon Footprint Calculator for Sustainable Tourism in Sri Lanka, combining AI, data analytics, and environmental awareness.**
+---
 
-- 🌱 I’m currently learning **everything abount all technologies**
+## 🔍 Current Focus
 
-- 💬 Ask me about **HTML,CSS,java,python , streamlit, Android studio, Devops CICD Pipeline, figma, firebase, wireshark, linuxOS**
+- 🔭 Leading research on **Context-Aware Carbon Footprint Calculator for Sustainable Tourism in Sri Lanka**
+- 🌱 Mastering **AI/ML, Cloud Architecture, and Full-Stack Development**
+- 💡 Exploring **Green Tech Solutions and Sustainable Computing**
 
-- 📫 How to reach me **nwnbhathiya@gmail.com**
+## 🛠️ Technical Expertise
 
-- ⚡ Fun fact **call me as bhathii**
-  <hr>
-<br>
-<br>
+**Languages & Frameworks**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
+**Mobile & Cloud**  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
   
+| <img src="https://github-readme-stats.vercel.app/api?username=Bhaathii&show_icons=true&theme=radical&hide_border=true" alt="Bhaathii's stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhaathii&theme=radical&hide_border=true" alt="Bhaathii's streak" /> |
+| ------------- | ------------- |
 
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaathii&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> | <img src="https://github-profile-trophy.vercel.app/?username=Bhaathii&theme=radical&margin-w=15&no-frame=true&column=3" alt="GitHub Trophies" width="100%"/> |
+| ------------- | ------------- |
 
+</div>
 
-| ![Bhaathii's github stats](https://github-readme-stats.vercel.app/api?username=Bhaathii&show_icons=true&theme=tokyonight) | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaathii&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Bhaathii&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-<hr>
-<br>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nuwan-bhathiya-16868b26a/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuwan bhathiya" height="30" width="40" /></a>
-<a href="https://fb.com/nuwan bhathiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nuwan bhathiya" height="30" width="40" /></a>
-<a href="https://youtube.com/@nuwanbhathiya8892?si=0Tr9ZJuKZRlujT8P" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nuwanbhathiya8892" height="30" width="40" /></a>
+## 🌱 Recent Projects
+
+### ♻️ Context-Aware Carbon Footprint Calculator
+- **AI-driven solution** for sustainable tourism in Sri Lanka
+- Combines **machine learning** with **geospatial analysis**
+- Tech stack: Python, Streamlit, Scikit-learn, GeoPandas
+
+### 📱 EcoTravel Companion (Mobile App)
+- **Android application** for eco-conscious travelers
+- Features carbon tracking and sustainable route planning
+- Tech stack: Kotlin, Android Studio, Firebase
+
+---
+
+## 🎓 Academic Journey
+**BSc (Hons) Information Technology**  
+
+**Key Coursework:**  
+- Machine Learning
+- Cloud Architecture & DevOps
+- Full-Stack Development
+- service oriented programimg
+- Interlligent systems
+
+---
+
+<div align="center">
+  <h3>Let's Connect & Collaborate!</h3>
+  <p>Open to research opportunities, tech discussions, and sustainable tech projects</p>
+  <a href="mailto:nwnbhathiya@gmail.com">📧 nwnbhathiya@gmail.com</a> | 
+  <a href="https://www.linkedin.com/in/nuwan-bhathiya-16868b26a/">💼 LinkedIn</a>
+</div>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=bhaathii&label=Profile%20views&color=0e75b6&style=flat" alt="bhaathii" /> 
 </p>
-<hr>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<hr>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/bhaathii"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bhaathii" /></a></p><br><br>
-
-
