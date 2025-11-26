@@ -78,8 +78,7 @@
  traveled, and fuel types.
 -  Integrated GPS and Maps API to dynamically track travel data and
  provide accurate emission calculations.
-- Develop a real-time vehicle emission calculation module for a
- web application using localized Sri Lankan transport data.
+- Developing Recomendation model using Machine Learning.
 
 
 ---
